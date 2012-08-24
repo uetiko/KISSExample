@@ -1,0 +1,12 @@
+# Archivo de configuración para el acceso
+# a bases de datos involucradas.
+# @author Angel Barrientos Cruz <uetiko@gmail.com>
+# @package com.silent.kiss.config
+
+#Base postgres
+base:
+  usuario : geek
+  passwd : 000999000
+  host : 127.0.0.1
+  puerto : 5432
+  base : testRaro
